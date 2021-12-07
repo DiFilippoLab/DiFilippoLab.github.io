@@ -1,0 +1,18 @@
+---
+name: Craig Sampson
+position: ugradstudent
+avatar: sampson.jpg
+joined: 2021
+---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+### Contact
+
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=QgJ7CPUAAAAJ&hl=en) <br>
+[Linkedin]()
+
+<hr>
+
+### Research Interests
+
