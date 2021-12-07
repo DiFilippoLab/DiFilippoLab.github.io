@@ -7,6 +7,11 @@ name:               "DiFilippo lab"
 title:              "DiFilippo lab at Johnson & Wales University"
 description:        "This is a page for Nick DiFilippo lab, we perform research in robotics at Johnson & Wales University, Providence"
 
+#URL
+baseurl:            
+#baseurl:            "" #For Root Domain
+permalink:          /:year/:month/:day/:title.html
+
 
 # Markdown
 markdown:           kramdown
