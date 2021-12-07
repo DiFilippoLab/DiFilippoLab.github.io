@@ -37,6 +37,17 @@ sass:
   style:            :compressed
 
 
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "people"
+    values:
+      layout:       "profile"
+
+
 collections:
   people:
     output: true
