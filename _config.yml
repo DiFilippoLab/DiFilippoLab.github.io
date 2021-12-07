@@ -1,1 +1,38 @@
-theme: jekyll-theme-cayman
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# Basic
+name:               "DiFilippo lab"
+title:              "DiFilippo lab at Johnson & Wales University"
+description:        "This is a page for Nick DiFilippo lab, we perform research in robotics at Johnson & Wales University, Providence"
+
+
+# Markdown
+markdown:           kramdown
+
+# Highlighter
+highlighter:        rouge
+
+# Navigation
+nav:
+  - name:           "home"
+    href:           "/"
+  - name:           "about"
+    href:           "/about"
+  - name:           "publications"
+    href:           "/publication"
+  - name:           "people"
+    href:           "/people"
+  - name:           "resources"
+    href:           "/resources"
+
+# Sass
+sass:
+  style:            :compressed
+
+
+collections:
+  people:
+    output: true
+    permalink: /people/:title/index.html
