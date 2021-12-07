@@ -8,7 +8,7 @@ permalink: /publication/
 ### 2021
 
 _Deep Learning Computer Vision for robotic disassembly and servicing applications_<br>
-Daneil P. Brogan, Nicholas M. DiFilippo, Musa K. Jouaneh<br>
+Daniel P. Brogan, Nicholas M. DiFilippo, Musa K. Jouaneh<br>
 Array, 2021 ([Article](https://www.sciencedirect.com/science/article/pii/S2590005621000394))
 
 _A Soft Robot for Peripheral Lung Cancer Diagnosis and Therapy_<br>
