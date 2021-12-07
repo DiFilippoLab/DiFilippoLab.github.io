@@ -12,7 +12,7 @@ Daniel P. Brogan, Nicholas M. DiFilippo, Musa K. Jouaneh<br>
 Array, 2021 ([Article](https://www.sciencedirect.com/science/article/pii/S2590005621000394))
 
 _A Soft Robot for Peripheral Lung Cancer Diagnosis and Therapy_<br>
-Max McCandless, Alexander Perry, Nicholas DiFilippo, Ashlynn Carroll, Ehab Billatos, Sheila Russo<br>
+Max McCandless, Alexander Perry, Nicholas DiFilippo, Ashlyn Carroll, Ehab Billatos, Sheila Russo<br>
 Soft Robotics, 2021 ([Abstract](https://www.liebertpub.com/doi/abs/10.1089/soro.2020.0127))
 
 _Assessment of the automation potential of electric vehicle battery disassembly_<br>
