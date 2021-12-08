@@ -24,7 +24,7 @@ nav:
   - name:           "home"
     href:           "/"
   - name:           "research"
-    href:           "/research"
+    href:           "/research
   - name:           "publications"
     href:           "/publication"
   - name:           "people"
@@ -33,8 +33,7 @@ nav:
     href:           "/resources"
    -name:            "contact"
     href:           "/contact"
-   -name:           "opportunites"
-    href:           "/opportunites"
+
 
 # Sass
 sass:
