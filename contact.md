@@ -2,6 +2,7 @@
 title: Contact
 permalink: /contact/
 ---
+### Contact
 
 General inquiries should be directed to Professor Nick DiFilippo. 
 
