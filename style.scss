@@ -515,15 +515,16 @@ tbody tr:nth-child(odd) th {
     font-weight: 300;
 }
 
+.navbar-default:hover .navbar-brand {
+  color: #eeb111;
+}
+
 .navbar-brand {
   //font-weight: bold;
   font-size: 20px;
   font-weight: 300;
 }
 
-.navbar-default:hover .navbar-brand:hover {
-  color: #eeb111;
-}
 
 // change font for navbar
 .navbar, .navbar-nav>li>a {
