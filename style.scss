@@ -522,6 +522,7 @@ tbody tr:nth-child(odd) th {
   text-transform: uppercase;
   font-weight: 600;
   font-size: 80%;
+  color:#FFF;
 }
 
 // fix menu bar spacing for mobile
@@ -546,5 +547,5 @@ tbody tr:nth-child(odd) th {
 .navbar-toggle, .navbar-default .navbar-toggle:hover {
   border: none;
   background-color: #fff;
-  color:#FFF
+  color:#FFF;
 }
