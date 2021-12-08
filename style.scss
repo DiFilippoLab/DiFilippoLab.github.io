@@ -526,6 +526,15 @@ tbody tr:nth-child(odd) th {
 }
 
 
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+
+.nav.navbar-nav.navbar-right:hover li a {
+    color: #eeb111;
+}
+
+
 // change font for navbar
 .navbar, .navbar-nav>li>a {
   background-color: #004A91;
