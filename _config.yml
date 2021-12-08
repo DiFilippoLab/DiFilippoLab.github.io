@@ -31,9 +31,9 @@ nav:
     href:           "/people"
   - name:           "resources"
     href:           "/resources"
-  -name:            "contact"
+   -name:            "contact"
     href:           "/contact"
-  -opportunities:    "opportunites"
+   -name:           "opportunites"
     href:           "/opportunites"
 
 # Sass
