@@ -21,4 +21,12 @@ Performing non-destructive disassembly is vastly different than assembling a pro
 
 **Robot Perception**
 
-Combining force and vision sensing is a challenge
+It is very challenging for a robot to make sense of its surroundings especially it is is performing some sort of tasks. As humans, we have feedback from our senses (touch, sight, hearing, etc) that help give feedback about if we are performing a task correctly. We are investigating ways to combine these methods, for example vision and force sensing, to help a robot perform various tasks.
+
+<div class="content list people">
+    <div class="list-item-people">
+            <p class="list-post-title">
+            <img class="profile-thumbnail" src="{{site.baseurl}}/images/research/jwu_turtlebot.jpg">
+             </p>
+            </div>
+ </div>
