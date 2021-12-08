@@ -521,6 +521,10 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+.navbar-brand:hover {
+  color: yellow;
+}
+
 // change font for navbar
 .navbar, .navbar-nav>li>a {
   background-color: #004A91;
