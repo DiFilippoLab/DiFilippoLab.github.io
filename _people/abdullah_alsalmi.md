@@ -8,7 +8,6 @@ joined: 2021
 
 ### Contact
 
-<i class="fa fa-bar-chart"></i> [Google Scholar] <br>
 [Linkedin]()
 
 <hr>
