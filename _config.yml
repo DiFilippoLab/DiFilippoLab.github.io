@@ -29,8 +29,6 @@ nav:
     href:           "/publication"
   - name:           "people"
     href:           "/people"
-  - name:           "resources"
-    href:           "/resources"
   - name:           "opportunities"
     href:           "/opportunities"
   - name:           "contact"
