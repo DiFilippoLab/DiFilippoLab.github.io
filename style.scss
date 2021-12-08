@@ -521,8 +521,8 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
-.navbar-brand>a:hover {
-  color: yellow;
+.navbar-default:hover .navbar-brand:hover {
+  color: #eeb111;
 }
 
 // change font for navbar
