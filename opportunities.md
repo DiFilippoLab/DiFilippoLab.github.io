@@ -1,0 +1,4 @@
+---
+title: Opportunities
+permalink: /opportunities/
+---
