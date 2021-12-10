@@ -13,6 +13,7 @@ avatar: difilippo.jpg
 <i class="fa fa-building" /> John J. Bowen Center for Science and Innovation Room 206
 
 [Johnson & Wales Faculty page](https://www.jwu.edu/faculty/difilippo-nicholas.html)
+[LinkedIn Profile](https://www.linkedin.com/in/nick-difilippo-ph-d-98926651/)
 
 
 ## About
