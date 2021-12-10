@@ -1,7 +1,7 @@
 ---
 name: Abdullah Alsalmi
 position: ugradstudent
-avatar: sampson.jpg
+avatar: alsalmi.jpg
 joined: 2021
 ---
 
