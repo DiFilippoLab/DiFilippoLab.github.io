@@ -12,8 +12,8 @@ Performing non-destructive disassembly is vastly different than assembling a pro
 <div class="content list people">
     <div class="list-item-people">
             <p class="list-post-title">
-            <img class="research-thumbnail" src="{{site.baseurl}}/images/research/fastener_detection.jpg">
-            <img class="research-thumbnail" src="{{site.baseurl}}/images/research/chevy_bolt_disassembly.jpg">
+            <img class="research-automated-thumbnail" src="{{site.baseurl}}/images/research/fastener_detection.jpg">
+            <img class="research-automated-thumbnail" src="{{site.baseurl}}/images/research/chevy_bolt_disassembly.jpg">
              </p>
             </div>
  </div>
