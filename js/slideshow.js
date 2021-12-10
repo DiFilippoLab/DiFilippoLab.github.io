@@ -3,7 +3,7 @@ carousel();
 
 function carousel() {
   var i;
-  var x = document.getElementsByClassName("research-automated-thumbnail")[0];
+  var x = document.getElementsByClassName("research-automated-thumbnail");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";
   }
