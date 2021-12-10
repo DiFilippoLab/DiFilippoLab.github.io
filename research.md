@@ -26,7 +26,7 @@ It is very challenging for a robot to make sense of its surroundings especially 
 <div class="content list people">
     <div class="list-item-people">
             <p class="list-post-title">
-            <img class="research-thumbnail" src="{{site.baseurl}}/images/research/jwu_turtlebot.jpg">
+            <img class="research-perception-thumbnail" src="{{site.baseurl}}/images/research/jwu_turtlebot.jpg">
              </p>
             </div>
  </div>
