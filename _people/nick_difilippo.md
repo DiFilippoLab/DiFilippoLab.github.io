@@ -18,6 +18,6 @@ avatar: difilippo.jpg
 
 
 ## About
-[Nick DiFilippo](http://nicholasdifilippo.com/) runs the DiFilippo Lab at Johnson & Wales University. He received his PhD in Mechanical Engineering from the University of Rhode Island in 2016. Prior to that he recieved his Master's degree (2012) and undergraduate degree (2011) from the University of Rhode Island. Prof. DiFilippo has worked as an engineer for various companies in Rhode Island and he worked as a postdoctoral associate at Boston University in the [Material Robotics Lab](https://sites.bu.edu/mrl/). 
+[Nick DiFilippo](http://nicholasdifilippo.com/) runs the DiFilippo Lab at Johnson & Wales University. He received his Ph.D. in Mechanical Engineering from the University of Rhode Island in 2016. Before that, he received his Master's degree (2012) and undergraduate degree (2011) from the University of Rhode Island. Prof. DiFilippo has worked as an engineer for various companies in Rhode Island, and he worked as a postdoctoral associate at Boston University in the [Material Robotics Lab](https://sites.bu.edu/mrl/). 
 
-His research interests include robotic perception and cognition, to try to understand ways that robots can make sense of their surroundings, as well as robotic integration projects.  
+His research interests include robotic perception and cognition, to try to understand ways that robots can make sense of their surroundings, and robotic integration projects.  
